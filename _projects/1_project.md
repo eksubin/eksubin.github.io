@@ -4,7 +4,7 @@ title: RAG PDF Helper
 description: The RAG PDF Helper is an application that enables users to ask questions about a PDF document loaded into the system.
 img: assets/img/rag.webp
 importance: 1
-category: work
+category: fun
 related_publications: true
 ---
 
@@ -33,7 +33,7 @@ To run this application, you need the following:
 
 ## RAG Architecture
 
-![RAG Architecture](rag.webp)
+![RAG Architecture](assets/img/rag.webp)
 *Image credits - dynatrance*
 
 The RAG (Retrieval-Augmented Generation) architecture combines the advantages of retrieval-based and generation-based approaches. In this architecture:
