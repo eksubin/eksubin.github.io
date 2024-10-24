@@ -2,96 +2,79 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Subin Erattakulangara
     - name: Date of Birth
-      value: 14th March 1879
+      value: 04 Aug 1994
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Biomedical Engineering
+      institution: University of Iowa, Iowa City, US
+      year: 2019 - 2025 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Developed data-efficient deep learning algorithms for upper airway MRI segmentation.
+        - Focused on small dataset challenges in medical imaging.
+        - title: Research Highlights
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Contributed to 4 conference papers (IEEE-ISBI, ISMRM, BMES).
+            - Enabled the University of Iowa to build proprietary segmentation models.
+    - title: Bachelor's in Electronics and Communication Engineering
+      institution: National Institute of Technology, Calicut
+      year: 2013 - 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Strong foundation in signal processing, robotics, and AI.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: R&D Engineering Intern
+      institution: Kitware Inc., Clifton Park, US
+      year: 2023 Summer & Fall
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Contributed to open-source tools for whole slide image analysis.
+        - Developed machine learning methods for medical imaging.
+        - title: Research Achievements
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Implemented novel algorithms in Python and C++.
+            - Published results in peer-reviewed conferences.
+    - title: Deep Learning Engineer and Product Designer
+      institution: Tata Consultancy Services
+      year: 2017 - 2019
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Developed intelligent chatbot and robotic automation solutions.
+        - Led product design for an automated ATM testing robot.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Remarkable RSS
+      year: 2024-now
+      description: An open-source RSS viewer for converting RSS feeds to PDF and sending them to Google Drive for use with the Remarkable tablet.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: [Your Award Year]
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - [Award 1]
+        - [Award 2]
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning in Medical Imaging
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Image segmentation.
+        - Transfer learning for small datasets.
+    - title: Robotics and AI
       items:
-        - Description 1.
-        - Description 2.
+        - AI tool democratization.
+        - Robotics for medical devices.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Tea-making, Tech startups, Programming.
