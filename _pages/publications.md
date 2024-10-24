@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications & conferences
-description: 
+title: publications
+description: Publications and conference abstracts
 nav: true
 nav_order: 2
 ---
