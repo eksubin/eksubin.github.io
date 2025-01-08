@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Subin Erattakulangara",
-    "label": "AI Engineer",
+    "label": "Machine learning Researcher",
     "image": "",
     "email": "erattakulangara@uiowa.edu",
     "phone": "319-569-9553",
@@ -76,7 +76,7 @@
       "area": "Biomedical Engineering",
       "studyType": "PhD",
       "startDate": "2019-08-01",
-      "endDate": "2024-12-01",
+      "endDate": "2025-05-01",
       "score": "3.89/4.00",
       "courses": ["Deep Learning", "Medical Imaging Physics", "Scientific Computing", "Human Physiology"]
     },
@@ -99,15 +99,33 @@
       "summary": ""
     },
     {
-      "title": "Shark Tank Competition Finalist",
-      "date": "2022-05-01",
+      "title": "Shark Tank Competition Winner",
+      "date": "2023-06-06",
       "awarder": "ISMRM International Conference",
+      "summary": ""
+    },
+    {
+      "title": " Innovation Challenge 2023 Business Model Competition Finalist",
+      "date": "2023",
+      "awarder": "The university of Iowa",
+      "summary": ""
+    },
+    {
+      "title": "SXSW Pitch competition Finalist",
+      "date": "2023",
+      "awarder": "South by Southwest",
       "summary": ""
     },
     {
       "title": "Best Poster Award",
       "date": "2022-04-01",
       "awarder": "University of Iowa College of Engineering Research Open House",
+      "summary": ""
+    },
+    {
+      "title": "Shark Tank Competition Finalist",
+      "date": "2022-05-06",
+      "awarder": "ISMRM International Conference",
       "summary": ""
     }
   ],
@@ -124,12 +142,14 @@
       "name": "Accelerated Pseudo 3D Dynamic Speech MR Imaging at 3T Using Unsupervised Deep Variational Manifold Learning",
       "publisher": "MICCAI 2022",
       "releaseDate": "2022-09-01",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-16446-0_66",
       "summary": ""
     },
     {
       "name": "Airway Segmentation in Speech MRI Using the U-NET Architecture",
       "publisher": "IEEE ISBI",
       "releaseDate": "2020-04-01",
+      "url":"https://ieeexplore.ieee.org/document/9098536",
       "summary": ""
     }
   ],
