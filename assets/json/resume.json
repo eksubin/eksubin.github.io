@@ -132,6 +132,13 @@
   "certificates": [],
   "publications": [
     {
+      "name": "Open-Source Manually Annotated Vocal Tract Database for Automatic Segmentation from 3D MRI Using Deep Learning: Benchmarking 2D and 3D Convolutional and Transformer Networks (Under Review)",
+      "publisher": "Journal of Voice",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": ""
+    },
+    {
       "name": "Automatic Multiple Articulator Segmentation in Dynamic Speech MRI Using a Protocol Adaptive Stacked Transfer Learning U-NET Model",
       "publisher": "Bioengineering",
       "releaseDate": "2023-05-01",
@@ -143,6 +150,36 @@
       "publisher": "MICCAI 2022",
       "releaseDate": "2022-09-01",
       "url": "https://link.springer.com/chapter/10.1007/978-3-031-16446-0_66",
+      "summary": ""
+    }
+  ],
+  "conferences": [
+    {
+      "name": "Towards quantitative characterization of airway collapse in obstructive sleep apnea",
+      "publisher": "ISMRM",
+      "releaseDate": "2024",
+      "url":"",
+      "summary": ""
+    },
+    {
+      "name": "Volumetric vocal tract segmentation using a deep transfer learning 3D U-NET model",
+      "publisher": "ISMRM",
+      "releaseDate": "2023",
+      "url":"",
+      "summary": ""
+    },
+    {
+      "name": "Protocol adaptive Stacked transfer learning (STL) U-NET with small dataset training for soft tissue segmentation in dynamic speech MRI",
+      "publisher": "ISMRM",
+      "releaseDate": "2021",
+      "url":"",
+      "summary": ""
+    },
+        {
+      "name": "U-net based automatic segmentation of the vocal tract airspace in speech MRI",
+      "publisher": "ISMRM",
+      "releaseDate": "2020",
+      "url":"",
       "summary": ""
     },
     {
