@@ -2,7 +2,6 @@
 layout: page
 title: RAG PDF Helper
 description: The RAG PDF Helper is an application that enables users to ask questions about a PDF document loaded into the system.
-img: ./assets/img/rag.webp
 importance: 1
 category: fun
 related_publications: true
