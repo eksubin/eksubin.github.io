@@ -1,12 +1,13 @@
 github_users:
   - eksubin
-  - subinkitware
 
 repo_description_lines_max: 2
 
 github_repos:
-  - eksubin/RAG-PDF-explainer
+  - eksubin/CLSTM-Unet4D
+  - eksubin/Airway4DSSL
   - eksubin/dsa-run-custom-ai-models
   - eksubin/Protocol-adaptive-STL-Unet
   - eksubin/U_net_T2_T1_multipleArticulatorSegmentation
-  - eksubin/cycleGAN_T2-T1
+  - eksubin/RAG-PDF-explainer
+  - eksubin/Remarkable-RSS-Feed
