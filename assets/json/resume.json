@@ -139,20 +139,20 @@
       "name": "Open-Source Manually Annotated Vocal Tract Database for Automatic Segmentation from 3D MRI Using Deep Learning: Benchmarking 2D and 3D Convolutional and Transformer Networks (Under Review)",
       "publisher": "Journal of Voice",
       "releaseDate": "2025",
-      "url": "",
+      "url": "https://arxiv.org/abs/2501.06229",
       "summary": ""
     },
     {
       "name": "Automatic Multiple Articulator Segmentation in Dynamic Speech MRI Using a Protocol Adaptive Stacked Transfer Learning U-NET Model",
       "publisher": "Bioengineering",
-      "releaseDate": "2023-05-01",
+      "releaseDate": "2023",
       "url": "https://doi.org/10.3390/bioengineering10050623",
       "summary": ""
     },
     {
       "name": "Accelerated Pseudo 3D Dynamic Speech MR Imaging at 3T Using Unsupervised Deep Variational Manifold Learning",
       "publisher": "MICCAI 2022",
-      "releaseDate": "2022-09-01",
+      "releaseDate": "2022",
       "url": "https://link.springer.com/chapter/10.1007/978-3-031-16446-0_66",
       "summary": ""
     }
@@ -189,7 +189,7 @@
     {
       "name": "Airway Segmentation in Speech MRI Using the U-NET Architecture",
       "publisher": "IEEE ISBI",
-      "releaseDate": "2020-04-01",
+      "releaseDate": "2020",
       "url":"https://ieeexplore.ieee.org/document/9098536",
       "summary": ""
     }
