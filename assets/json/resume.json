@@ -94,14 +94,16 @@
   "awards": [
     {
       "title": "Startup Accelerator Participant",
-      "date": "2023-07-01",
+      "date": "2023",
       "awarder": "Builders and Backers",
+      "url": "https://dailyiowan.com/2023/02/13/multiple-iowa-city-entrepreneurs-accepted-into-accelerated-program/",
       "summary": ""
     },
     {
       "title": "Shark Tank Competition Winner",
-      "date": "2023-06-06",
+      "date": "2023",
       "awarder": "ISMRM International Conference",
+      "url": "https://www.ismrm.org/23m/junior-fellow-program/shark-tank/",
       "summary": ""
     },
     {
@@ -118,14 +120,16 @@
     },
     {
       "title": "Best Poster Award",
-      "date": "2022-04-01",
+      "date": "2022",
       "awarder": "University of Iowa College of Engineering Research Open House",
+      "url":"https://engineering.uiowa.edu/research/research-open-house/past-research-open-houses/research-open-house-2022",
       "summary": ""
     },
     {
       "title": "Shark Tank Competition Finalist",
-      "date": "2022-05-06",
+      "date": "2022",
       "awarder": "ISMRM International Conference",
+      "url": "https://www.ismrm.org/22m/junior-fellow-program/shark-tank/",
       "summary": ""
     }
   ],
