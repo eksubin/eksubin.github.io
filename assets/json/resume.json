@@ -162,28 +162,28 @@
       "name": "Towards quantitative characterization of airway collapse in obstructive sleep apnea",
       "publisher": "ISMRM",
       "releaseDate": "2024",
-      "url":"",
+      "url":"https://archive.ismrm.org/2024/3122.html",
       "summary": ""
     },
     {
       "name": "Volumetric vocal tract segmentation using a deep transfer learning 3D U-NET model",
       "publisher": "ISMRM",
       "releaseDate": "2023",
-      "url":"",
+      "url":"https://www.ismrm.org/23/program-files/D-179.htm",
       "summary": ""
     },
     {
       "name": "Protocol adaptive Stacked transfer learning (STL) U-NET with small dataset training for soft tissue segmentation in dynamic speech MRI",
       "publisher": "ISMRM",
       "releaseDate": "2021",
-      "url":"",
+      "url":"https://www.ismrm.org/22/program-files/D-03.htm",
       "summary": ""
     },
         {
       "name": "U-net based automatic segmentation of the vocal tract airspace in speech MRI",
       "publisher": "ISMRM",
       "releaseDate": "2020",
-      "url":"",
+      "url":"https://archive.ismrm.org/2020/2013.html",
       "summary": ""
     },
     {
