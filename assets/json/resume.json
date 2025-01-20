@@ -62,10 +62,7 @@
       "startDate": "2017-12-01",
       "endDate": "2019-08-01",
       "summary": "Developed and implemented intelligent chatbot systems and contributed to robotics projects.",
-      "highlights": [
-        "Led design and 3D printing of humanoid robot shell.",
-        "Developed ATM testing robotic hand and voice chatbot."
-      ]
+      "highlights": ["Led design and 3D printing of humanoid robot shell.", "Developed ATM testing robotic hand and voice chatbot."]
     }
   ],
   "education": [
@@ -122,7 +119,7 @@
       "title": "Best Poster Award",
       "date": "2022",
       "awarder": "University of Iowa College of Engineering Research Open House",
-      "url":"https://engineering.uiowa.edu/research/research-open-house/past-research-open-houses/research-open-house-2022",
+      "url": "https://engineering.uiowa.edu/research/research-open-house/past-research-open-houses/research-open-house-2022",
       "summary": ""
     },
     {
@@ -162,35 +159,35 @@
       "name": "Towards quantitative characterization of airway collapse in obstructive sleep apnea",
       "publisher": "ISMRM",
       "releaseDate": "2024",
-      "url":"https://archive.ismrm.org/2024/3122.html",
+      "url": "https://archive.ismrm.org/2024/3122.html",
       "summary": ""
     },
     {
       "name": "Volumetric vocal tract segmentation using a deep transfer learning 3D U-NET model",
       "publisher": "ISMRM",
       "releaseDate": "2023",
-      "url":"https://www.ismrm.org/23/program-files/D-179.htm",
+      "url": "https://www.ismrm.org/23/program-files/D-179.htm",
       "summary": ""
     },
     {
       "name": "Protocol adaptive Stacked transfer learning (STL) U-NET with small dataset training for soft tissue segmentation in dynamic speech MRI",
       "publisher": "ISMRM",
       "releaseDate": "2021",
-      "url":"https://www.ismrm.org/22/program-files/D-03.htm",
+      "url": "https://www.ismrm.org/22/program-files/D-03.htm",
       "summary": ""
     },
-        {
+    {
       "name": "U-net based automatic segmentation of the vocal tract airspace in speech MRI",
       "publisher": "ISMRM",
       "releaseDate": "2020",
-      "url":"https://archive.ismrm.org/2020/2013.html",
+      "url": "https://archive.ismrm.org/2020/2013.html",
       "summary": ""
     },
     {
       "name": "Airway Segmentation in Speech MRI Using the U-NET Architecture",
       "publisher": "IEEE ISBI",
       "releaseDate": "2020",
-      "url":"https://ieeexplore.ieee.org/document/9098536",
+      "url": "https://ieeexplore.ieee.org/document/9098536",
       "summary": ""
     }
   ],

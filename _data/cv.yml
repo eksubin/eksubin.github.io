@@ -13,7 +13,7 @@
   contents:
     - title: PhD in Biomedical Engineering
       institution: University of Iowa, Iowa City, US
-      year: 2019 - 2025 
+      year: 2019 - 2025
       description:
         - Developed data-efficient deep learning algorithms for upper airway MRI segmentation.
         - Focused on small dataset challenges in medical imaging.
