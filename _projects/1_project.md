@@ -34,7 +34,7 @@ To run this application, you need the following:
 ## RAG Architecture
 
 ![RAG Architecture](assets/img/rag.webp)
-*Image credits - dynatrance*
+_Image credits - dynatrance_
 
 The RAG (Retrieval-Augmented Generation) architecture combines the advantages of retrieval-based and generation-based approaches. In this architecture:
 
