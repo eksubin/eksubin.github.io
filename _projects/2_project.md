@@ -10,7 +10,7 @@ related_publications: true
 
 # Remarkable RSS
 
-![RSS Architecture](assets/img/remarkable.png)
+![RSS Architecture](../assets/img/remarkable.png)
 
 ## Overview
 
