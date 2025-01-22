@@ -8,8 +8,6 @@ category: fun
 related_publications: true
 ---
 
-# Bridge AI Hub
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bridge.png" title="bridgePlatform" class="img-fluid rounded z-depth-1" %}

@@ -33,7 +33,11 @@ To run this application, you need the following:
 
 ## RAG Architecture
 
-![RAG Architecture](../assets/img/rag.webp)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rag.webp" title="rag" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 _Image credits - dynatrance_
 
 The RAG (Retrieval-Augmented Generation) architecture combines the advantages of retrieval-based and generation-based approaches. In this architecture:
