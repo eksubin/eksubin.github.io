@@ -90,6 +90,13 @@
   ],
   "awards": [
     {
+      "title": "Post-Comprehensive Research Fellowship",
+      "date": "2024",
+      "awarder": "The university of Iowa",
+      "url": "https://dailyiowan.com/2023/02/13/multiple-iowa-city-entrepreneurs-accepted-into-accelerated-program/",
+      "summary": ""
+    },
+    {
       "title": "Startup Accelerator Participant",
       "date": "2023",
       "awarder": "Builders and Backers",
@@ -116,6 +123,12 @@
       "summary": ""
     },
     {
+      "title": "Krishnan B Chandran Travel award",
+      "date": "2023",
+      "awarder": "The university of Iowa",
+      "summary": ""
+    },
+    {
       "title": "Best Poster Award",
       "date": "2022",
       "awarder": "University of Iowa College of Engineering Research Open House",
@@ -127,6 +140,13 @@
       "date": "2022",
       "awarder": "ISMRM International Conference",
       "url": "https://www.ismrm.org/22m/junior-fellow-program/shark-tank/",
+      "summary": ""
+    },
+    {
+      "title": " Third Place, Startup Games",
+      "date": "2022",
+      "awarder": "The university of Iowa",
+      "url": "https://iowajpec.org/news/2022/03/hyrd-wins-1000-award-iowa-jpec-startup-games",
       "summary": ""
     }
   ],
@@ -151,6 +171,20 @@
       "publisher": "MICCAI 2022",
       "releaseDate": "2022",
       "url": "https://link.springer.com/chapter/10.1007/978-3-031-16446-0_66",
+      "summary": ""
+    },
+    {
+      "name": "Network analysis of MPO and other relevant proteins involved in diabetic foot ulcer and other diabetic complications",
+      "publisher": "Springer Berlin Heidelberg",
+      "releaseDate": "2019",
+      "url": "https://link.springer.com/article/10.1007/s12539-017-0258-z",
+      "summary": ""
+    },
+    {
+      "name": "Java implementation of low pass Butterworth filter for biomedical applications",
+      "publisher": " International Journal of Computer Science and Information Technologies",
+      "releaseDate": "2016",
+      "url": "http://www.ijcsit.com/docs/Volume%207/vol7issue5/ijcsit20160705029.pdf",
       "summary": ""
     }
   ],
