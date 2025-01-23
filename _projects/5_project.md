@@ -5,7 +5,7 @@ description: A Self supervised Unet architecture that can handle 3D + time data.
 img: assets/img/sslunet.png
 importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 ## Overview
