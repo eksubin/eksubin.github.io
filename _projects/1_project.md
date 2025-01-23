@@ -5,7 +5,7 @@ description: The RAG PDF Helper is an application that enables users to ask ques
 img: assets/img/rag.webp
 importance: 1
 category: fun
-related_publications: true
+giscus_comments: true
 ---
 
 ## Overview
