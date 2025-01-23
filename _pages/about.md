@@ -19,7 +19,6 @@ As a child, my curiosity about how things worked led me to disassemble and reass
 
 Although I initially pursued Biotechnology, my passion for technology and involvement with my college Robotics club led to a career as a Robotics and AI consultant, developing robots for medical device companies. This diverse background helped me bridge theory and application, providing innovative solutions across domains. Pursuing a Ph.D. in Biomedical Engineering in the [University of Iowa - USA](https://lingala.lab.uiowa.edu/people), I have worked on MRI analysis, developing AI infrastructure for upper airway analysis and advancing the understanding of diseases like OSA. My current focus is on creating generalizable AI algorithms that work across various MRI protocols and hardware with minimal data.
 
-##### Links
 <div id="badges">
   <a href="https://www.linkedin.com/in/subin-erattakulangara-69b21598/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,9 +30,3 @@ Although I initially pursued Biotechnology, my passion for technology and involv
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/>
   </a>
 </div>
-
-##### 🛠️ Tech Stack
-
-[![Skills 1](https://skillicons.dev/icons?i=python,mysql,matlab)](https://skillicons.dev)
-[![Skills 2](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
-[![Skills 4](https://skillicons.dev/icons?i=linux,bash,github,git)](https://skillicons.dev)
