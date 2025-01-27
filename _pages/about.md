@@ -6,7 +6,7 @@ subtitle: Research Assistant | PhD in Bioengineering | Machine learning & AI | I
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
