@@ -5,7 +5,7 @@ description: A custom Unet architecture that can handle 3D + time data.
 img: assets/img/clstmunet.png
 importance: 1
 category: work
-related_publications: true
+giscus_comments: false
 ---
 
 ## Overview

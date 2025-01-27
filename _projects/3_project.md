@@ -5,7 +5,7 @@ description: Platform for deploying AI based applications on cloud.
 img: assets/img/bridge.png
 importance: 1
 category: fun
-related_publications: true
+giscus_comments: false
 ---
 
 <div class="row">

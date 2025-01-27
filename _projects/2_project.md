@@ -5,7 +5,7 @@ description: Remarkable RSS Feed system using Googlve Drive.
 img: assets/img/remarkable.png
 importance: 1
 category: fun
-related_publications: true
+giscus_comments: false
 ---
 
 <div class="row">
