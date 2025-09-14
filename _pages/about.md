@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Assistant | PhD in Bioengineering | Machine learning & AI | Image Processing | GoHawks
+subtitle: Research Fellow | Machine learning & AI | Image Processing | Agents | GoHawks
 
 profile:
   align: right
@@ -15,9 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-As a child, my curiosity about how things worked led me to disassemble and reassemble toys, a practice that fostered my patient and step-by-step approach to learning. I developed expertise in software development, Docker, deep learning, and image processing, which was crucial during my tenure as an R&D Engineering Intern at Kitware Inc., where I contributed to open-source tools for [whole slide image analysis](https://github.com/eksubin/dsa-run-custom-ai-models).
+I'm a Research Fellow specialized in the clinical translation of AI algorithms for medical imaging at Memorial Sloan Cancer Center(MSKCC), I primarily work on developing and implementing AI reconstruction algorithms for free-breathing MRI scans, collaborating with researchers to bridge the gap between innovation and patient care. I received my Ph.D. in Biomedical Engineering from the University of Iowa, where my research centered on creating AI tools for upper airway segmentation from dynamic MRI.
 
-Although I initially pursued Biotechnology, my passion for technology and involvement with my college Robotics club led to a career as a Robotics and AI consultant, developing robots for medical device companies. This diverse background helped me bridge theory and application, providing innovative solutions across domains. Pursuing a Ph.D. in Biomedical Engineering in the [University of Iowa - USA](https://lingala.lab.uiowa.edu/people), I have worked on MRI analysis, developing AI infrastructure for upper airway analysis and advancing the understanding of diseases like OSA. My current focus is on creating generalizable AI algorithms that work across various MRI protocols and hardware with minimal data.
+I've applied my skills in both academic and industry settings. As an R&D Engineer intern at Kitware Inc., I developed an AI adapter for their Digital Slide Archive, and prior to my Ph.D., I worked as a Systems Engineer in Robotics and Cognitive services at TCS.
+
+My work is driven by a passion for Agentic AI and Medical Imaging. I am committed to advancing technology that has a direct, positive impact on medical diagnostics and treatment
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/subin-erattakulangara-69b21598/">
