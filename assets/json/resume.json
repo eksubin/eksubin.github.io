@@ -3,7 +3,7 @@
     "name": "Subin Erattakulangara",
     "label": "Machine learning Researcher",
     "image": "",
-    "email": "erattakulangara@uiowa.edu",
+    "email": "edusubin@gmail.com",
     "phone": "319-569-9553",
     "url": "http://www.subinek.com/",
     "summary": "Passionate Engineer with 5+ years of experience in deep learning, specializing in computer vision and NLP. Proven expertise in designing efficient AI algorithms and open-source software development. Seeking to leverage my skills for innovative solutions.",
@@ -31,6 +31,18 @@
     ]
   },
   "work": [
+        {
+      "name": "Memorial Sloan Kettering Cancer Center",
+      "position": "Applied Scientist",
+      "url": "https://www.mskcc.org/",
+      "startDate": "2025-05-25",
+      "endDate": "2026-05-30",
+      "summary": "Specialized in the clinical translation of AI algorithms for medical imaging",
+      "highlights": [
+        "Clinical translation of MovieNet (AI fast image reconstruction algorithm) to GE MRI scanners in the MSK hospital.",
+        "Debugging and deploying the python code for XD-GRASP reconstruction on Philips MRI scanner data."
+      ]
+    },
     {
       "name": "Kitware Inc.",
       "position": "R&D Engineering Intern",
@@ -48,7 +60,7 @@
       "position": "Research Assistant",
       "url": "https://uiowa.edu/",
       "startDate": "2019-08-01",
-      "endDate": "Present",
+      "endDate": "2025-05-10",
       "summary": "Developed AI/ML tools for upper airway segmentation in 2D, 3D, and 3D + time MRI data, enhancing analysis capabilities.",
       "highlights": [
         "Built segmentation models for assessing upper airway dynamics for sleep apnea.",
