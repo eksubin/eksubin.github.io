@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Research Fellow specialized in the clinical translation of AI algorithms for medical imaging at Memorial Sloan Cancer Center(MSKCC), I primarily work on developing and implementing AI reconstruction algorithms for free-breathing MRI scans, collaborating with researchers to bridge the gap between innovation and patient care. I received my Ph.D. in Biomedical Engineering from the University of Iowa, where my research centered on creating AI tools for upper airway segmentation from dynamic MRI.
+I'm an Applied Scientist specialized in the clinical translation of AI algorithms for medical imaging at Memorial Sloan Cancer Center(MSKCC), I primarily work on developing and implementing AI reconstruction algorithms for free-breathing MRI scans, collaborating with researchers to bridge the gap between innovation and patient care. I received my Ph.D. in Biomedical Engineering from the University of Iowa, where my research centered on creating AI tools for upper airway segmentation from dynamic MRI.
 
 I've applied my skills in both academic and industry settings. As an R&D Engineer intern at Kitware Inc., I developed an AI adapter for their Digital Slide Archive, and prior to my Ph.D., I worked as a Systems Engineer in Robotics and Cognitive services at TCS.
 
